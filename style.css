@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-    width: 60%;
+    width: 50%;
     margin: 2em auto;
     text-align: center;
     background-color: var(--primary-color);
@@ -46,7 +46,7 @@ form input, form textarea {
 
 @media (max-width: 1000px) {
     .container {
-        width: 70%;
+        width: 65%;
     }
 }
 
@@ -67,8 +67,7 @@ form input, form textarea {
 
 @media (max-width: 400px) {
     .container {
-        width: 100%;
-        margin: 0 auto;
-        border-radius: 0;
+        width: 98%;
+        margin: .3em auto;
     }
 }
